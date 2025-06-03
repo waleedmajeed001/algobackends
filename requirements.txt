@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-binance
+python-dotenv
+pandas
+numpy
+ta
+websockets 
