@@ -1,8 +1,8 @@
-fastapi
-uvicorn
-python-binance
-python-dotenv
-pandas
-numpy
-ta
-websockets 
+fastapi==0.104.1
+uvicorn==0.24.0
+python-binance==1.0.19
+python-dotenv==1.0.0
+pandas==2.1.3
+numpy==1.26.2
+yfinance==0.2.33
+websockets==12.0 
